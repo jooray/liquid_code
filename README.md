@@ -1,4 +1,4 @@
-liquid-code
+liquid_code
 ===========
 
 About
@@ -18,7 +18,7 @@ Install
 Install as gem:
 
 ```bash
-gem install liquid-code
+gem install liquid_code
 ```
 
 Usage

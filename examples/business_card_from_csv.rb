@@ -3,7 +3,7 @@ require 'RMagick'
 require 'rqrcode'
 require 'csv'
 require 'active_support/all'
-require 'liquid-code'
+require 'liquid_code'
 
 # Reads CSV with this header:
 # Surname;FirstName;Title;Email;Tel;Mobile;Position;PGPID;PGPFP
