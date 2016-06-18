@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'liquid_code'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.date        = '2016-06-18'
   s.summary     = "Generate QR codes with rounded corners"
   s.description = "This library uses ImageMagick and RQRCode to create QR codes with rounded corners"
