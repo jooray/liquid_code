@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "This library uses ImageMagick and RQRCode to create QR codes with rounded corners"
   s.authors     = ["Juraj Bednar"]
   s.email       = 'juraj@bednar.sk'
-  s.files       = ["lib/liquidcode.rb"]
+  s.files       = ["lib/liquid_code.rb"]
   s.homepage    =
       'https://github.com/jooray/liquid-code'
   s.license       = 'MIT'
